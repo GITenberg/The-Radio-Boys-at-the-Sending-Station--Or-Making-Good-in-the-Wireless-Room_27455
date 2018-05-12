@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '2575'
     url: http://www.gutenberg.org/2009/agents/2575
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27455#The-Radio-Boys-at-the-Sending-Station--Or-Making-Good-in-the-Wireless-Room
 gutenberg_issued: '2008-12-08'
 gutenberg_type: Text
 identifiers:
